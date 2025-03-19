@@ -1,1 +1,2 @@
-# sql-assignment-week-1
+CREATE DATABASE salesDB;
+DROP DATABASE demo;# sql-assignment-week-1
